@@ -46,3 +46,4 @@ Algallikad:
 * [20-[
 ** {'a':['4'], 'e':'3', 'i':'1', 'o':'0', 's':'5', 'õ':['6', 'o'], 'ä':['2', 'a'], 'ö':'o', 'l':'1',  'ü':['y', 'u']}
 
+Lemmade näitena on lisatud yhend.txt, mille saab anda näiteks John the Ripperi sisendiks.
